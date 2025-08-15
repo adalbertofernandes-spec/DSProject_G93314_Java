@@ -1,0 +1,48 @@
+Assistir o código do professor 
+Abstraction 
+
+
+Encapsulation
+
+
+inhertance
+
+
+Polymorfismo
+
+
+Abstração visão diferente de enxerga um problema de uma determinada forma.
+
+Classe são um tipo em notações - (Peso, Altura, Cabelo)
+
+Monolito - Sistemas criados 
+Micro serviços - Docker
+
+-- Desenvolvimento de Sistema OOP -- 
+
+Algoritimo
+Mais de uma pessoa trabalhando em 1 único arquivo
+Arquivo só para cada pessoa 
+Funcionário
+RH
+Fornecedores
+Vendas
+
+Class - variáveis e Funções
+Variáveis = atributos 
+Funções = métodos
+
+Visibilidade - 
+
+Classe e colocamos o seus atributos
+Classe pode ter os atributos 
+
+Coloca e mostrar os dois valores
+getter -  
+setter - Colocar alguma coisa ai dentro
+
+Variável apenas um elemento 
+Objeto onde vai ser contido vários elementos.
+
+getNome = Pegando e mostrando na tela
+setNome = Definir valor (colocar o valor lá dentro)

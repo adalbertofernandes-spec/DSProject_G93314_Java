@@ -1,4 +1,4 @@
-package org.example;
+package codigo;
 
 public enum Sexo {
     MASCULINO,

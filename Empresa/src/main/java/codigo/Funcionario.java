@@ -1,9 +1,9 @@
-package org.example;
+package codigo;
 
 public abstract class Funcionario {
-    protected String nome;
-    protected String dataNascimento;
-    protected Sexo sexo;
+    protected  String nome;
+    protected  String dataNascimento;
+    protected  Sexo sexo;
     protected Setor setor;
     protected double salarioBase;
 
@@ -55,14 +55,5 @@ public abstract class Funcionario {
         this.salarioBase = salarioBase;
     }
 
-    @Override
-    public String toString() {
-        return "Funcionario{" +
-                "nome='" + nome + '\'' +
-                ", dataNascimento='" + dataNascimento + '\'' +
-                ", sexo=" + sexo +
-                ", setor=" + setor +
-                ", salarioBase=" + salarioBase +
-                '}';
-    }
+    public abstract double getSalarioFinal();
 }

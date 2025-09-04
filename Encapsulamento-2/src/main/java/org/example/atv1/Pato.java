@@ -1,13 +1,13 @@
 package org.example.atv1;
 
-public class Cachorro implements Animal{
+public class Pato implements Animal {
     @Override
     public String emitirSom() {
-        return "Auau";
+        return "Huuumm";
     }
 
     @Override
     public String comer() {
-        return "Ração";
+        return "Farelo";
     }
 }

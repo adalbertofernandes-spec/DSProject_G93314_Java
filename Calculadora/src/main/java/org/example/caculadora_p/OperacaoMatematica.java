@@ -1,4 +1,5 @@
 package org.example.caculadora_p;
 
-public class OperacaoMatematica {
+public interface OperacaoMatematica  {
+    public abstract double cacular(double a, double b);
 }

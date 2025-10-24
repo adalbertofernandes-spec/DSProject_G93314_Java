@@ -1,0 +1,23 @@
+.botao{
+    background-color: rgb(6, 94, 10);
+    color: white;
+    width: 280px;
+    height: 80px;
+    border-radius: 4px;
+    border: none;
+    font-size: 28px;
+    text-decoration: none;
+    
+}
+
+
+
+/* tamanho da imagem*/
+img{
+    width: 150px;
+    height: 130px;
+}
+
+.index{
+    background-color: bisque;
+}

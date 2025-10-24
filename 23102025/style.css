@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5, h6{
+    color: blue;
+}
+
+.botao{
+    padding-top: 10;
+    padding-bottom: 10;
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: red;
+}
+
+.botao:hover{
+    background-color: black;
+    color: blue;
+    cursor: pointer;
+}
+
+img{
+    width: 150px;
+    height: 50px;
+}
